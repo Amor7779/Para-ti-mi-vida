@@ -1,0 +1,14 @@
+Coloca aquí dos archivos, con estos nombres exactos:
+
+1. foto.jpg      -> la fotografía que se usará como fondo de pantalla.
+2. musica.mp3    -> la canción que sonará con fade-in al primer toque.
+
+Recomendaciones:
+- foto.jpg: usa una imagen de al menos 1920x1080 px para que se vea nítida
+  en pantallas grandes. Formatos .jpg o .png funcionan (si usas .png,
+  cambia la referencia en index.html de "foto.jpg" a "foto.png").
+- musica.mp3: un archivo liviano (menos de 8-10 MB) para que cargue rápido
+  en celulares con datos móviles.
+
+Este archivo (LEEME.txt) no es necesario para que el sitio funcione,
+puedes borrarlo cuando quieras.
